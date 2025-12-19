@@ -84,3 +84,11 @@ debug_*.py
 demo_out/
 temp_mtree_test/
 temp_mtree_2/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and random text files
+*.log
+*.txt
