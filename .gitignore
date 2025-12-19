@@ -78,3 +78,9 @@ dmypy.json
 *.deb
 *.pkg.tar.zst
 *.pkg.tar.xz
+
+# Debug / Demo
+debug_*.py
+demo_out/
+temp_mtree_test/
+temp_mtree_2/
